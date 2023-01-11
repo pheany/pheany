@@ -1,3 +1,5 @@
+<h2>Ifeanyi Emmanuel - JavaScript Developer</h2>
+
 Welcome to my GitHub profile! My name is Ifeanyi Emmanuel and I am a JavaScript developer with a focus on building high-performance web applications using React.
 
 Here, you can find some of the projects I've been working on, including:
